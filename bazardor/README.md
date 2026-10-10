@@ -67,3 +67,5 @@ public/           bazar-hero.png, logo-icon.png
 ## ☁️ Deploy on Vercel
 
 Import the GitHub repo, add the environment variables above, and deploy. Dynamic pages like `/product/[slug]` work on refresh because they are normal Next.js routes.
+
+https://bazardor-phi-lovat.vercel.app/
